@@ -84,14 +84,12 @@ public class Excercises {
                         System.out.println("Opción invalida");;
                         break;
                 }
+                System.out.println("El resultado es: " + totalConvertido);
             } else if (opcionModulo == 3) {
                 System.out.println("Gracias, hasta pronto....");
                 opcionValida = false;
-
             }
         }
-
-
     }
     // Método para validar enteros
     public static int leerEntero(Scanner sc, String mensaje) {
