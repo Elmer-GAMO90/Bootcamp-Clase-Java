@@ -18,5 +18,7 @@ public class ArrayExample2 {
             }
         }
         System.out.println("El número mayor es: " + max);
+        //Verificar el cambio en el github
+
     }
 }
