@@ -66,7 +66,7 @@ public class CollectionsGuide {
         //Interface Comparable
 
         //Queue
-        //Queue<Integer> q1
+        Queue<Integer> q1 = new ArrayDeque<>();
 
 
 
