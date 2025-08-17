@@ -53,7 +53,7 @@ public class CollectionsGuide {
         System.out.println("La personal Uriel existe en la lista? " + edades.containsKey("Uriel"));
         //COmo iterar un mapa
 
-        //Utilizar un for, con una variable tipo var,
+        //Utilizar un for, con una variable de tipo var
         for (var e : edades.entrySet()) {
             String nombre = e.getKey();
             Integer edad = e.getValue();
